@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/YouTube/static/css/main.f95b382f.css",
-    "main.js": "/YouTube/static/js/main.81f94706.js",
+    "main.js": "/YouTube/static/js/main.bf2f7d5a.js",
     "static/media/YouTube-White-Full-Color-Logo.wine.svg": "/YouTube/static/media/YouTube-White-Full-Color-Logo.wine.c28d69f5497111ecf267fe85717524ea.svg",
     "index.html": "/YouTube/index.html",
     "main.f95b382f.css.map": "/YouTube/static/css/main.f95b382f.css.map",
-    "main.81f94706.js.map": "/YouTube/static/js/main.81f94706.js.map"
+    "main.bf2f7d5a.js.map": "/YouTube/static/js/main.bf2f7d5a.js.map"
   },
   "entrypoints": [
     "static/css/main.f95b382f.css",
-    "static/js/main.81f94706.js"
+    "static/js/main.bf2f7d5a.js"
   ]
 }
